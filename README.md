@@ -1,2 +1,2 @@
 # Data-Cleaning-and-Manipulations.
-This directory will guide you to the processes about data cleaning and manipulations. Mainly the problems that we face in big data handling.   
+This directory will guide you to the processes about data cleaning and manipulations. Mainly the problems that we face in big data handling. Such as, dealing with missing values especially when we can't afford losing other cell values(can't omit the entire row). How to feed the mssing values with the number that is the most accurate representation of missing value. What are the cases where we have to consider data distribution and what value shoud be inserted accordingly.   
